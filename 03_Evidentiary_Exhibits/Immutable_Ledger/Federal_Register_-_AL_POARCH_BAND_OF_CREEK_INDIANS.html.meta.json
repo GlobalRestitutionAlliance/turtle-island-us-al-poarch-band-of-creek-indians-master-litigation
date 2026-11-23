@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AL+POARCH+BAND+OF+CREEK+INDIANS",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AL+POARCH+BAND+OF+CREEK+INDIANS",
+  "title": "Federal Register - AL POARCH BAND OF CREEK INDIANS",
+  "fetched_at": "2026-11-23T17:32:35.715192Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 329252,
+  "sha256": "8169eb4e6858777b1797d6ebfaf1b1b1a5278ef4a5177b743704610667563ae0",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
